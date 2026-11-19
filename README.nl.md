@@ -24,7 +24,7 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 2. [Maak een gratis Denote-account aan](https://denote.net/user/register). Heb je al een account? Log dan in. Maak een Denote-API-sleutel aan met de machtiging `top_ads:read` of voeg die toe aan een bestaande sleutel.
 3. Sla de sleutel in de beveiligde instellingen van je agent op als `DENOTE_API_KEY`. Vraag daarna: ‘Laat me de populairste appadvertenties van vorige week zien.’ Je krijgt alle drie de lijsten. Zonder categorie zie je advertenties voor games.
 
-**Rang · Advertentietitel · Adverteerder · Advertentievorm · Platforms · Voorbeeld**
+De chat toont de eerste drie advertenties per lijst, één per regel, met een medialink en looptijd. Populaire en nieuwe advertenties tonen de totale weekscore. Snelle stijgers tonen de scoretoename en het groeipercentage. Het lokale rapport onderaan het antwoord bevat alle resultaten. Open een kaart voor de video, het overzicht, de trend, gerelateerde advertenties en de doelgroep. De detailknop opent de juiste ranglijst in Denote, ook als gegevens ontbreken.
 
 ## Een advertentie nader bekijken
 

@@ -24,7 +24,7 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 2. [Kostenloses Denote-Konto erstellen](https://denote.net/user/register). Wenn du schon ein Konto hast, melde dich an. Erstelle einen Denote-API-Schlüssel mit der Berechtigung `top_ads:read` oder füge sie einem vorhandenen Schlüssel hinzu.
 3. Speichere den Schlüssel in der Geheimnisverwaltung deines Agenten als `DENOTE_API_KEY`. Bitte ihn dann: „Zeig mir die App-Anzeigen der letzten Woche.“ Du erhältst alle drei Ranglisten. Ohne Kategorieangabe werden Spiele ausgewählt.
 
-**Rang · Anzeigentitel · Werbetreibender · Format · Plattformen · Vorschau**
+Im Chat erscheinen die ersten drei Anzeigen jeder Rangliste mit Medienlink und Laufzeit. Beliebte und neue Anzeigen zeigen den Wochenwert, Aufsteiger den Zuwachs und die Wachstumsrate. Der lokale Bericht am Ende der Antwort enthält alle Ergebnisse. Eine Karte öffnet das Video sowie Übersicht, Verlauf, ähnliche Anzeigen und Zielgruppe. Auch bei fehlenden Details führt die Schaltfläche zur passenden Rangliste im Denote-Arbeitsbereich.
 
 ## Eine Anzeige im Detail ansehen
 

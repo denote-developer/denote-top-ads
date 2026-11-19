@@ -24,7 +24,7 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 2. [Create a free Denote account](https://denote.net/user/register). Already registered? Sign in. Create a Denote API key with the `top_ads:read` permission or add it to an existing key.
 3. Save the key as `DENOTE_API_KEY` in your agent host’s secret settings. Then ask “Show me last week’s top app ads.” Your agent will fetch all three charts. Games are the default when you leave the category open.
 
-**Rank · Ad title · Advertiser · Format · Platforms · Preview**
+Chat shows the top three ads per chart, one per row, with a video or preview link and duration. Trending and New show weekly creative score; Rising shows score increment and growth rate. Open the local report at the end of the reply for all returned ads. Select a card for inline playback, overview, trends, related ads and audience. The detail button opens the matching Denote workspace chart even when detail data is unavailable.
 
 ## A closer look
 

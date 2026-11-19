@@ -24,7 +24,7 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 2. [Crea una cuenta gratuita de Denote](https://denote.net/user/register). Si ya tienes cuenta, inicia sesión. Crea una clave de API de Denote con el permiso `top_ads:read` o añádelo a una clave existente.
 3. Guarda la clave como `DENOTE_API_KEY` en la configuración de secretos de tu agente y pídele «Muéstrame los mejores anuncios de aplicaciones de la semana pasada». Recibirás las tres listas. Si omites la categoría, verás anuncios de juegos.
 
-**Posición · Título · Anunciante · Formato · Plataformas · Vista previa**
+El chat muestra los tres primeros anuncios de cada lista, uno por fila, con enlace al material y duración. Las listas de populares y nuevos muestran la puntuación semanal total; la de anuncios en ascenso muestra el incremento y la tasa de crecimiento. El informe local al final de la respuesta incluye todos los resultados. Abre una tarjeta para reproducir el vídeo y consultar el resumen, la tendencia, los anuncios relacionados y la audiencia. El botón de detalles abre la lista correspondiente en Denote incluso si faltan datos.
 
 ## Consulta un anuncio en detalle
 

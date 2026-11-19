@@ -24,7 +24,7 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 2. [Créer un compte Denote gratuit](https://denote.net/user/register). Si vous avez déjà un compte, connectez-vous. Créez une clé API Denote avec l’autorisation `top_ads:read` ou ajoutez cette autorisation à une clé existante.
 3. Enregistrez la clé sous le nom `DENOTE_API_KEY` dans le gestionnaire de secrets de votre agent. Demandez ensuite « Montre-moi les publicités d’applications de la semaine dernière ». Vous obtiendrez les trois classements. Par défaut, la catégorie choisie est celle des jeux.
 
-**Rang · Titre · Annonceur · Format · Plateformes · Aperçu**
+Le chat affiche les trois premières publicités de chaque classement, une par ligne, avec un lien vers la création et la durée de diffusion. Les publicités populaires et nouvelles affichent le score hebdomadaire total. Celles en progression affichent la hausse du score et le taux de croissance. Le rapport local en fin de réponse regroupe tous les résultats. Ouvrez une fiche pour lire la vidéo et consulter l’aperçu, l’évolution, les publicités associées et l’audience. Le bouton de détails ouvre le classement correspondant dans Denote même si des données manquent.
 
 ## Examiner une publicité en détail
 
