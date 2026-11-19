@@ -4,7 +4,7 @@
 
 Finde Anzeigen, die dir als Vorlage für deine nächste Kampagne dienen können. Denote erfasst mehr als 10 Millionen Anzeigen und aktualisiert die Ranglisten jede Woche. Mit einem kostenlosen Konto erhältst du für die letzte abgeschlossene Woche drei Ranglisten für Spiele oder Apps mit jeweils bis zu zehn Anzeigen. [Denote Top Ads entdecken](https://denote.net/top-ads).
 
-[![Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+[![Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 
 *Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.*
 
@@ -14,15 +14,15 @@ Finde Anzeigen, die dir als Vorlage für deine nächste Kampagne dienen können.
 | Aufsteiger | Anzeigen, deren Beliebtheit gegenüber der Vorwoche am stärksten zunahm. |
 | Neue Anzeigen | Erstmals erfasste Anzeigen, sortiert nach ihrer anfänglichen Beliebtheit. |
 
-[![Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+[![Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
 
 *Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.*
 
-[![Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+[![Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
 
 *Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.*
 
-[![Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+[![Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
 
 *Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.*
 
@@ -31,7 +31,7 @@ Finde Anzeigen, die dir als Vorlage für deine nächste Kampagne dienen können.
 Führe diesen Befehl in deinem OpenClaw-Arbeitsbereich aus. Du benötigst Python 3.
 
 ```sh
-git clone https://github.com/Denote-Business/denote-top-ads.git skills/denote-top-ads
+git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-top-ads
 ```
 
 1. Öffne eine neue Sitzung und frage: „Welche Anzeigen kann ich mit Denote entdecken?“
@@ -44,18 +44,18 @@ git clone https://github.com/Denote-Business/denote-top-ads.git skills/denote-to
 
 Frage zum Beispiel: „Öffne den zweiten Platz der Aufsteiger.“ Mit Top Ads Pro oder Business kannst du verfügbare Daten zur Anzeigenleistung und Zielgruppe ansehen. Alle drei Wochenranglisten sind kostenlos.
 
-[![Überblick zur Anzeige von Vita Mahjong mit Format und geschätzten Impressionen.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
+[![Überblick zur Anzeige von Vita Mahjong mit Format und geschätzten Impressionen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 
 *Überblick zur Anzeige von Vita Mahjong mit Format und geschätzten Impressionen.*
 
-[![Täglicher Anzeigenwert von Vita Mahjong im Vergleich zu den Referenzlinien.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/data-trend.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/data-trend.jpg)
+[![Täglicher Anzeigenwert von Vita Mahjong im Vergleich zu den Referenzlinien.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/data-trend.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/data-trend.jpg)
 
 *Täglicher Anzeigenwert von Vita Mahjong im Vergleich zu den Referenzlinien.*
 
-[![Weitere Anzeigen mit demselben Motiv, den jeweiligen Werbetreibenden und der Laufzeit.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/related-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/related-ads.jpg)
+[![Weitere Anzeigen mit demselben Motiv, den jeweiligen Werbetreibenden und der Laufzeit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/related-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/related-ads.jpg)
 
 *Weitere Anzeigen mit demselben Motiv, den jeweiligen Werbetreibenden und der Laufzeit.*
 
-[![Reichweite von Vita Mahjong nach Land, Alter und Geschlecht.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/audience.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/audience.jpg)
+[![Reichweite von Vita Mahjong nach Land, Alter und Geschlecht.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/audience.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/audience.jpg)
 
 *Reichweite von Vita Mahjong nach Land, Alter und Geschlecht.*

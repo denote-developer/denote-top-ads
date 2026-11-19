@@ -4,7 +4,7 @@
 
 Zoek advertenties die je als voorbeeld kunt gebruiken voor je volgende campagne. Denote volgt meer dan 10 miljoen advertenties en werkt de ranglijsten wekelijks bij. Met een gratis account krijg je drie ranglijsten voor games of apps over de afgelopen volledige week, met maximaal tien advertenties per lijst. [Bekijk Denote Top Ads](https://denote.net/top-ads).
 
-[![Open de drie weekranglijsten via het menu aan de linkerkant.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+[![Open de drie weekranglijsten via het menu aan de linkerkant.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 
 *Open de drie weekranglijsten via het menu aan de linkerkant.*
 
@@ -14,15 +14,15 @@ Zoek advertenties die je als voorbeeld kunt gebruiken voor je volgende campagne.
 | Snelste stijgers | Welke advertenties het meest aan populariteit wonnen ten opzichte van de week ervoor. |
 | Nieuwe advertenties | Welke advertenties voor het eerst opdoken, gerangschikt naar hun vroege populariteit. |
 
-[![Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+[![Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
 
 *Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.*
 
-[![Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+[![Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
 
 *Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.*
 
-[![Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+[![Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
 
 *Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.*
 
@@ -31,7 +31,7 @@ Zoek advertenties die je als voorbeeld kunt gebruiken voor je volgende campagne.
 Voer deze opdracht uit in je OpenClaw-werkruimte. Je hebt Python 3 nodig.
 
 ```sh
-git clone https://github.com/Denote-Business/denote-top-ads.git skills/denote-top-ads
+git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-top-ads
 ```
 
 1. Open een nieuwe sessie en vraag: ‘Welke advertenties kan ik met Denote ontdekken?’
@@ -44,18 +44,18 @@ git clone https://github.com/Denote-Business/denote-top-ads.git skills/denote-to
 
 Vraag bijvoorbeeld: ‘Open nummer twee van de snelste stijgers.’ Met Top Ads Pro of Business kun je beschikbare gegevens over de prestaties en het publiek bekijken. De drie wekelijkse ranglijsten zijn gratis.
 
-[![Overzicht van de Vita Mahjong-advertentie, met het advertentieformaat en het geschatte aantal vertoningen.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
+[![Overzicht van de Vita Mahjong-advertentie, met het advertentieformaat en het geschatte aantal vertoningen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 
 *Overzicht van de Vita Mahjong-advertentie, met het advertentieformaat en het geschatte aantal vertoningen.*
 
-[![De dagelijkse score van de Vita Mahjong-advertentie vergeleken met de referentielijnen.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/data-trend.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/data-trend.jpg)
+[![De dagelijkse score van de Vita Mahjong-advertentie vergeleken met de referentielijnen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/data-trend.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/data-trend.jpg)
 
 *De dagelijkse score van de Vita Mahjong-advertentie vergeleken met de referentielijnen.*
 
-[![Advertenties met hetzelfde materiaal, met de adverteerders en de looptijd.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/related-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/related-ads.jpg)
+[![Advertenties met hetzelfde materiaal, met de adverteerders en de looptijd.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/related-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/related-ads.jpg)
 
 *Advertenties met hetzelfde materiaal, met de adverteerders en de looptijd.*
 
-[![Het bereik van Vita Mahjong uitgesplitst naar land, leeftijd en geslacht.](https://raw.githubusercontent.com/Denote-Business/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/audience.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/audience.jpg)
+[![Het bereik van Vita Mahjong uitgesplitst naar land, leeftijd en geslacht.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/audience.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/audience.jpg)
 
 *Het bereik van Vita Mahjong uitgesplitst naar land, leeftijd en geslacht.*
