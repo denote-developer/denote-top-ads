@@ -2,7 +2,9 @@
 
 [EN](README.md) · ZH · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-想为下一轮投放找值得研究的广告素材？Denote 跟踪超过 1,000 万条广告，每周更新榜单。免费账号即可获取游戏或应用在上一个完整自然周的三个榜单，每榜最多 10 条。 [了解 Denote 热门广告](https://denote.net/top-ads)。
+做游戏买量时，可以用 Denote Top Ads 查找表现好的游戏广告：从热门榜挑选受欢迎的素材，从飙升榜发现近期热度上升的广告，为下一轮素材测试找参考。工具类应用也可以用同样的方法研究竞品广告。
+
+Denote 每天采集并更新游戏和工具类应用的广告数据，每次采集覆盖超过 6,000 万条广告记录。榜单每周汇总一次。 免费账号即可获取游戏或应用在上一个完整自然周的三个榜单，每榜最多 10 条。 [了解 Denote 热门广告](https://denote.net/top-ads)。
 
 [![从左侧热门广告导航进入三个周榜。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

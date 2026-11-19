@@ -2,7 +2,9 @@
 
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · NL · [DE](README.de.md) · [FR](README.fr.md)
 
-Zoek advertenties die je als voorbeeld kunt gebruiken voor je volgende campagne. Denote volgt meer dan 10 miljoen advertenties en werkt de ranglijsten wekelijks bij. Met een gratis account krijg je drie ranglijsten voor games of apps over de afgelopen volledige week, met maximaal tien advertenties per lijst. [Bekijk Denote Top Ads](https://denote.net/top-ads).
+Wil je nieuwe spelers werven? Bekijk populaire gameadvertenties en vergelijk ze met advertenties die snel aan populariteit winnen. Zo vind je ideeën voor je volgende advertentietest. Je kunt ook advertenties van concurrerende hulpprogramma’s onderzoeken.
+
+Denote verzamelt en ververst dagelijks advertentiegegevens voor games en hulpprogramma’s. Elke verzamelronde omvat meer dan 60 miljoen advertentierecords. De ranglijsten worden één keer per week samengesteld. Met een gratis account krijg je drie ranglijsten voor games of apps over de afgelopen volledige week, met maximaal tien advertenties per lijst. [Bekijk Denote Top Ads](https://denote.net/top-ads).
 
 [![Open de drie weekranglijsten via het menu aan de linkerkant.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

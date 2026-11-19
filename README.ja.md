@@ -2,7 +2,9 @@
 
 [EN](README.md) · [ZH](README.zh.md) · JA · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-次のキャンペーンに向けて、参考になる広告を探しましょう。Denote は1,000万件を超える広告を追跡し、ランキングを毎週更新しています。無料アカウントで、直近の終了週におけるゲームまたはアプリの広告を、3つのランキングで各10件まで確認できます。 [Denote の広告ランキングを見る](https://denote.net/top-ads)。
+ゲームのユーザー獲得に向けて広告素材を探すなら、人気順のランキングで注目のゲーム広告を、急上昇ランキングで勢いのある素材を見つけられます。ツール系アプリの競合広告の調査にも使えます。
+
+Denote はゲームとツール系アプリの広告データを毎日収集・更新します。1回の収集で6,000万件を超える広告レコードを対象とし、週に1回ランキングにまとめます。 無料アカウントで、直近の終了週におけるゲームまたはアプリの広告を、3つのランキングで各10件まで確認できます。 [Denote の広告ランキングを見る](https://denote.net/top-ads)。
 
 [![左側のナビゲーションから3つの週間ランキングを開けます。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

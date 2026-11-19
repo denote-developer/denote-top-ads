@@ -6,7 +6,7 @@ metadata: {"openclaw":{"requires":{"bins":["python3"]},"primaryEnv":"DENOTE_API_
 
 # Denote Top Ads
 
-Find winning game and app creatives in three weekly charts from Denote’s library of more than 10 million ads. Open a ranked creative to explore its performance and audience.
+Find winning game ads for user acquisition and research competing utility apps. Denote refreshes its ad data daily, covering more than 60 million ad records per crawl. The three charts summarize the last completed week. Open a ranked creative to explore its performance and audience.
 
 [![Weekly charts in Denote](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

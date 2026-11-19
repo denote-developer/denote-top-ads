@@ -2,7 +2,9 @@
 
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · FR
 
-Repérez des créations publicitaires à étudier pour votre prochaine campagne. Denote suit plus de 10 millions de publicités et actualise ses classements chaque semaine. Avec un compte gratuit, consultez trois classements de jeux ou d’applications pour la dernière semaine complète, avec jusqu’à dix publicités par classement. [Découvrir Denote Top Ads](https://denote.net/top-ads).
+Pour vos campagnes d’acquisition de joueurs, repérez les publicités de jeux les plus populaires et celles qui progressent le plus vite. Vous pouvez ainsi choisir des créations à tester ou étudier les publicités d’applications utilitaires concurrentes.
+
+Denote collecte et actualise chaque jour les données publicitaires des jeux et des applications utilitaires. Chaque collecte couvre plus de 60 millions d’enregistrements publicitaires. Les classements sont établis une fois par semaine. Avec un compte gratuit, consultez trois classements de jeux ou d’applications pour la dernière semaine complète, avec jusqu’à dix publicités par classement. [Découvrir Denote Top Ads](https://denote.net/top-ads).
 
 [![Accédez aux trois classements hebdomadaires depuis le menu latéral.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

@@ -2,7 +2,9 @@
 
 EN · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-Find winning ads to study for your next campaign. Denote tracks more than 10 million ads and updates its rankings every week. A free account gives you three charts for games or apps from the last completed week, with up to ten creatives per chart. [Explore Denote Top Ads](https://denote.net/top-ads).
+Use Denote Top Ads for game user acquisition (UA) and creative research. Find popular game ads in Trending Ads, then check Rising Ads for creatives gaining momentum before your next test. Use the same charts to research competing utility apps.
+
+Denote collects and refreshes ad data daily across games and utility apps. Each crawl covers more than 60 million ad records. The charts summarize this data once a week. A free account gives you three charts for games or apps from the last completed week, with up to ten creatives per chart. [Explore Denote Top Ads](https://denote.net/top-ads).
 
 [![Open the three weekly charts from the Top Ads sidebar.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 

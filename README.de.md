@@ -2,7 +2,9 @@
 
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · DE · [FR](README.fr.md)
 
-Finde Anzeigen, die dir als Vorlage für deine nächste Kampagne dienen können. Denote erfasst mehr als 10 Millionen Anzeigen und aktualisiert die Ranglisten jede Woche. Mit einem kostenlosen Konto erhältst du für die letzte abgeschlossene Woche drei Ranglisten für Spiele oder Apps mit jeweils bis zu zehn Anzeigen. [Denote Top Ads entdecken](https://denote.net/top-ads).
+Wer neue Spieler gewinnen möchte, findet in den Ranglisten beliebte Spielewerbung und Anzeigen, deren Popularität gerade steigt. So lassen sich Motive für den nächsten Anzeigentest auswählen und Anzeigen konkurrierender Utility-Apps vergleichen.
+
+Denote erfasst und aktualisiert täglich Werbedaten zu Spielen und Utility-Apps. Jeder Erfassungslauf umfasst mehr als 60 Millionen Anzeigendatensätze. Die Ranglisten werden einmal pro Woche erstellt. Mit einem kostenlosen Konto erhältst du für die letzte abgeschlossene Woche drei Ranglisten für Spiele oder Apps mit jeweils bis zu zehn Anzeigen. [Denote Top Ads entdecken](https://denote.net/top-ads).
 
 [![Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
 
