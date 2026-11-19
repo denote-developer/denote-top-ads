@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+Repérez les publicités populaires, en forte progression ou nouvellement détectées pour les jeux et les applications utilitaires afin de préparer votre prochain test d’acquisition.
+
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · FR
 
-Pour vos campagnes d’acquisition de joueurs, repérez les publicités de jeux les plus populaires et celles qui progressent le plus vite. Vous pouvez ainsi choisir des créations à tester ou étudier les publicités d’applications utilitaires concurrentes.
-
 Denote collecte et actualise chaque jour les données publicitaires des jeux et des applications utilitaires. Chaque collecte couvre plus de 60 millions d’enregistrements publicitaires. Les classements sont établis une fois par semaine. Avec un compte gratuit, consultez trois classements de jeux ou d’applications pour la dernière semaine complète, avec jusqu’à dix publicités par classement. [Découvrir Denote Top Ads](https://denote.net/top-ads).
-
-[![Accédez aux trois classements hebdomadaires depuis le menu latéral.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*Accédez aux trois classements hebdomadaires depuis le menu latéral.*
 
 | Classement gratuit | Ce que vous y trouverez |
 | --- | --- |
 | Publicités populaires | Les créations qui ont suscité le plus d’intérêt la semaine dernière. |
 | Publicités en progression | Celles dont la popularité a le plus augmenté par rapport à la semaine précédente. |
 | Nouvelles publicités | Les créations repérées pour la première fois, classées selon leur popularité initiale. |
-
-[![Publicités de jeux les plus populaires du 9 au 15 novembre 2026, par popularité hebdomadaire.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*Publicités de jeux les plus populaires du 9 au 15 novembre 2026, par popularité hebdomadaire.*
-
-[![Publicités de jeux dont la popularité a le plus progressé par rapport à la semaine précédente.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*Publicités de jeux dont la popularité a le plus progressé par rapport à la semaine précédente.*
-
-[![Publicités de jeux nouvellement repérées, classées selon leur popularité initiale.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*Publicités de jeux nouvellement repérées, classées selon leur popularité initiale.*
 
 ## Obtenir vos premiers classements
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## Examiner une publicité en détail
 
 Essayez « Ouvre la deuxième publicité en progression ». Avec Top Ads Pro ou Business, vous pouvez consulter les données disponibles sur les performances et l’audience. Les trois classements hebdomadaires sont gratuits.
+
+## Captures d’écran
+
+[![Accédez aux trois classements hebdomadaires depuis le menu latéral.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*Accédez aux trois classements hebdomadaires depuis le menu latéral.*
+
+[![Publicités de jeux les plus populaires du 9 au 15 novembre 2026, par popularité hebdomadaire.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*Publicités de jeux les plus populaires du 9 au 15 novembre 2026, par popularité hebdomadaire.*
+
+[![Publicités de jeux dont la popularité a le plus progressé par rapport à la semaine précédente.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*Publicités de jeux dont la popularité a le plus progressé par rapport à la semaine précédente.*
+
+[![Publicités de jeux nouvellement repérées, classées selon leur popularité initiale.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*Publicités de jeux nouvellement repérées, classées selon leur popularité initiale.*
 
 [![Vue d’ensemble de la création Vita Mahjong, avec son format et ses impressions estimées.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 

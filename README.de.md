@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+Finde beliebte, aufstrebende und neu entdeckte Anzeigen für Spiele und Utility-Apps und wähle Motive für deinen nächsten Kampagnentest aus.
+
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · DE · [FR](README.fr.md)
 
-Wer neue Spieler gewinnen möchte, findet in den Ranglisten beliebte Spielewerbung und Anzeigen, deren Popularität gerade steigt. So lassen sich Motive für den nächsten Anzeigentest auswählen und Anzeigen konkurrierender Utility-Apps vergleichen.
-
 Denote erfasst und aktualisiert täglich Werbedaten zu Spielen und Utility-Apps. Jeder Erfassungslauf umfasst mehr als 60 Millionen Anzeigendatensätze. Die Ranglisten werden einmal pro Woche erstellt. Mit einem kostenlosen Konto erhältst du für die letzte abgeschlossene Woche drei Ranglisten für Spiele oder Apps mit jeweils bis zu zehn Anzeigen. [Denote Top Ads entdecken](https://denote.net/top-ads).
-
-[![Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.*
 
 | Kostenlose Rangliste | Was du darin findest |
 | --- | --- |
 | Beliebte Anzeigen | Anzeigen, die in der vergangenen Woche besonders viel Aufmerksamkeit erhielten. |
 | Aufsteiger | Anzeigen, deren Beliebtheit gegenüber der Vorwoche am stärksten zunahm. |
 | Neue Anzeigen | Erstmals erfasste Anzeigen, sortiert nach ihrer anfänglichen Beliebtheit. |
-
-[![Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.*
-
-[![Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.*
-
-[![Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.*
 
 ## Deinen ersten Wochenüberblick abrufen
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## Eine Anzeige im Detail ansehen
 
 Frage zum Beispiel: „Öffne den zweiten Platz der Aufsteiger.“ Mit Top Ads Pro oder Business kannst du verfügbare Daten zur Anzeigenleistung und Zielgruppe ansehen. Alle drei Wochenranglisten sind kostenlos.
+
+## Produktansichten
+
+[![Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*Über die linke Seitenleiste lassen sich alle drei Wochenranglisten öffnen.*
+
+[![Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*Beliebte Spieleanzeigen vom 9. bis 15. November 2026, sortiert nach ihrer Beliebtheit in dieser Woche.*
+
+[![Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*Spieleanzeigen mit dem größten Zuwachs an Beliebtheit gegenüber der Vorwoche.*
+
+[![Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*Neu erfasste Spieleanzeigen, sortiert nach ihrer anfänglichen Beliebtheit.*
 
 [![Überblick zur Anzeige von Vita Mahjong mit Format und geschätzten Impressionen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 

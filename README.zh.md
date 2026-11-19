@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+Denote Top Ads 帮你找到上周热门、热度飙升和新出现的游戏及工具类应用广告，为下一轮买量测试挑选素材。
+
 [EN](README.md) · ZH · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-做游戏买量时，可以用 Denote Top Ads 查找表现好的游戏广告：从热门榜挑选受欢迎的素材，从飙升榜发现近期热度上升的广告，为下一轮素材测试找参考。工具类应用也可以用同样的方法研究竞品广告。
-
 Denote 每天采集并更新游戏和工具类应用的广告数据，每次采集覆盖超过 6,000 万条广告记录。榜单每周汇总一次。 免费账号即可获取游戏或应用在上一个完整自然周的三个榜单，每榜最多 10 条。 [了解 Denote 热门广告](https://denote.net/top-ads)。
-
-[![从左侧热门广告导航进入三个周榜。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*从左侧热门广告导航进入三个周榜。*
 
 | 免费榜单 | 能帮你发现什么 |
 | --- | --- |
 | 热门广告 | 看上周哪些素材最受关注，为创意复盘挑选参考。 |
 | 飙升广告 | 看哪些素材的热度比前一周增长最多，及早发现正在起势的创意。 |
 | 新晋广告 | 看最近首次出现的素材，并按初期热度挑选新鲜案例。 |
-
-[![热门广告：2026 年 11 月 9 至 15 日的游戏广告，按当周热度排序。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*热门广告：2026 年 11 月 9 至 15 日的游戏广告，按当周热度排序。*
-
-[![飙升广告：查看哪些游戏广告的热度比前一周增长最多。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*飙升广告：查看哪些游戏广告的热度比前一周增长最多。*
-
-[![新晋广告：查看本周新发现的游戏广告及其初期热度排名。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*新晋广告：查看本周新发现的游戏广告及其初期热度排名。*
 
 ## 获取你的第一份周榜
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## 深入了解一条广告
 
 试着问「打开飙升广告榜的第 2 条」。Top Ads Pro 或 Business 账号可查看该素材已有的表现和受众等详情。三个周榜均可免费查看。
+
+## 产品截图
+
+[![从左侧热门广告导航进入三个周榜。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*从左侧热门广告导航进入三个周榜。*
+
+[![热门广告：2026 年 11 月 9 至 15 日的游戏广告，按当周热度排序。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*热门广告：2026 年 11 月 9 至 15 日的游戏广告，按当周热度排序。*
+
+[![飙升广告：查看哪些游戏广告的热度比前一周增长最多。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*飙升广告：查看哪些游戏广告的热度比前一周增长最多。*
+
+[![新晋广告：查看本周新发现的游戏广告及其初期热度排名。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*新晋广告：查看本周新发现的游戏广告及其初期热度排名。*
 
 [![素材概览：查看 Vita Mahjong 的广告形式和预估展示量。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 

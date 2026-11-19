@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+ゲームやツール系アプリの人気広告・急上昇広告・新着広告を探し、次のユーザー獲得施策で試す広告素材を選べます。
+
 [EN](README.md) · [ZH](README.zh.md) · JA · [KO](README.ko.md) · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-ゲームのユーザー獲得に向けて広告素材を探すなら、人気順のランキングで注目のゲーム広告を、急上昇ランキングで勢いのある素材を見つけられます。ツール系アプリの競合広告の調査にも使えます。
-
 Denote はゲームとツール系アプリの広告データを毎日収集・更新します。1回の収集で6,000万件を超える広告レコードを対象とし、週に1回ランキングにまとめます。 無料アカウントで、直近の終了週におけるゲームまたはアプリの広告を、3つのランキングで各10件まで確認できます。 [Denote の広告ランキングを見る](https://denote.net/top-ads)。
-
-[![左側のナビゲーションから3つの週間ランキングを開けます。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*左側のナビゲーションから3つの週間ランキングを開けます。*
 
 | 無料ランキング | わかること |
 | --- | --- |
 | 人気広告 | 先週、特に注目を集めた広告を確認できます。 |
 | 急上昇広告 | 前週と比べて人気の伸び幅が大きかった広告を見つけられます。 |
 | 新着広告 | 新たに観測された広告を、初期の人気順に確認できます。 |
-
-[![人気広告：2026年11月9日から15日のゲーム広告を週間人気順に表示します。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*人気広告：2026年11月9日から15日のゲーム広告を週間人気順に表示します。*
-
-[![急上昇広告：前週と比べて人気の伸び幅が大きいゲーム広告です。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*急上昇広告：前週と比べて人気の伸び幅が大きいゲーム広告です。*
-
-[![新着広告：新たに観測されたゲーム広告を初期の人気順に表示します。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*新着広告：新たに観測されたゲーム広告を初期の人気順に表示します。*
 
 ## 最初の週間ランキングを取得する
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## 広告を詳しく見る
 
 「急上昇広告の2位を詳しく見せて」と聞いてみてください。Top Ads Pro または Business では、広告の実績やオーディエンスなど、取得可能な詳細を確認できます。3つの週間ランキングは無料です。
+
+## 画面例
+
+[![左側のナビゲーションから3つの週間ランキングを開けます。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*左側のナビゲーションから3つの週間ランキングを開けます。*
+
+[![人気広告：2026年11月9日から15日のゲーム広告を週間人気順に表示します。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*人気広告：2026年11月9日から15日のゲーム広告を週間人気順に表示します。*
+
+[![急上昇広告：前週と比べて人気の伸び幅が大きいゲーム広告です。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*急上昇広告：前週と比べて人気の伸び幅が大きいゲーム広告です。*
+
+[![新着広告：新たに観測されたゲーム広告を初期の人気順に表示します。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*新着広告：新たに観測されたゲーム広告を初期の人気順に表示します。*
 
 [![概要：Vita Mahjong の広告形式や推定表示回数を確認できます。](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 

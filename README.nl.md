@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+Vind populaire, snel stijgende en pas ontdekte advertenties voor games en hulpprogramma’s en kies ideeën voor je volgende campagne om gebruikers te werven.
+
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · [KO](README.ko.md) · [ES](README.es.md) · NL · [DE](README.de.md) · [FR](README.fr.md)
 
-Wil je nieuwe spelers werven? Bekijk populaire gameadvertenties en vergelijk ze met advertenties die snel aan populariteit winnen. Zo vind je ideeën voor je volgende advertentietest. Je kunt ook advertenties van concurrerende hulpprogramma’s onderzoeken.
-
 Denote verzamelt en ververst dagelijks advertentiegegevens voor games en hulpprogramma’s. Elke verzamelronde omvat meer dan 60 miljoen advertentierecords. De ranglijsten worden één keer per week samengesteld. Met een gratis account krijg je drie ranglijsten voor games of apps over de afgelopen volledige week, met maximaal tien advertenties per lijst. [Bekijk Denote Top Ads](https://denote.net/top-ads).
-
-[![Open de drie weekranglijsten via het menu aan de linkerkant.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*Open de drie weekranglijsten via het menu aan de linkerkant.*
 
 | Gratis ranglijst | Wat je ontdekt |
 | --- | --- |
 | Populaire advertenties | Welke advertenties vorige week de meeste aandacht trokken. |
 | Snelste stijgers | Welke advertenties het meest aan populariteit wonnen ten opzichte van de week ervoor. |
 | Nieuwe advertenties | Welke advertenties voor het eerst opdoken, gerangschikt naar hun vroege populariteit. |
-
-[![Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.*
-
-[![Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.*
-
-[![Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.*
 
 ## Je eerste weekoverzicht ophalen
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## Een advertentie nader bekijken
 
 Vraag bijvoorbeeld: ‘Open nummer twee van de snelste stijgers.’ Met Top Ads Pro of Business kun je beschikbare gegevens over de prestaties en het publiek bekijken. De drie wekelijkse ranglijsten zijn gratis.
+
+## Schermafbeeldingen
+
+[![Open de drie weekranglijsten via het menu aan de linkerkant.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*Open de drie weekranglijsten via het menu aan de linkerkant.*
+
+[![Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*Populaire gameadvertenties van 9 tot en met 15 november 2026, gerangschikt op weekpopulariteit.*
+
+[![Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*Gameadvertenties die het meest aan populariteit wonnen ten opzichte van de week ervoor.*
+
+[![Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*Nieuw ontdekte gameadvertenties, gerangschikt naar hun vroege populariteit.*
 
 [![Overzicht van de Vita Mahjong-advertentie, met het advertentieformaat en het geschatte aantal vertoningen.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 

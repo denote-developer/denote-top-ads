@@ -1,32 +1,16 @@
 # Denote Top Ads
 
+게임과 유틸리티 앱의 인기 광고, 급상승 광고, 새로 발견된 광고를 살펴보고 다음 이용자 확보 캠페인에서 테스트할 소재를 고를 수 있습니다.
+
 [EN](README.md) · [ZH](README.zh.md) · [JA](README.ja.md) · KO · [ES](README.es.md) · [NL](README.nl.md) · [DE](README.de.md) · [FR](README.fr.md)
 
-게임 이용자 확보 캠페인을 준비할 때 인기 순위에서 주목받는 게임 광고를 찾고, 급상승 순위에서 다음 테스트에 참고할 소재를 살펴보세요. 유틸리티 앱의 경쟁 광고도 같은 방식으로 조사할 수 있습니다.
-
 Denote는 게임과 유틸리티 앱의 광고 데이터를 매일 수집하고 갱신합니다. 한 번 수집할 때마다 광고 기록 6천만 건 이상을 살펴보며, 매주 한 번 순위를 집계합니다. 무료 계정으로 지난 한 주 동안의 게임 또는 앱 광고를 세 가지 순위표에서 각각 최대 10개까지 확인할 수 있습니다. [Denote 광고 순위 살펴보기](https://denote.net/top-ads).
-
-[![왼쪽 메뉴에서 세 가지 주간 광고 순위표를 열 수 있습니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
-
-*왼쪽 메뉴에서 세 가지 주간 광고 순위표를 열 수 있습니다.*
 
 | 무료 순위표 | 무엇을 볼 수 있나요? |
 | --- | --- |
 | 인기 광고 | 지난주에 가장 많은 관심을 받은 광고를 확인하세요. |
 | 급상승 광고 | 전주보다 인기도가 가장 크게 오른 광고를 찾아보세요. |
 | 신규 광고 | 새로 발견된 광고를 초기 인기도 순으로 살펴보세요. |
-
-[![인기 광고: 2026년 11월 9일부터 15일까지의 게임 광고를 주간 인기도순으로 보여 줍니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
-
-*인기 광고: 2026년 11월 9일부터 15일까지의 게임 광고를 주간 인기도순으로 보여 줍니다.*
-
-[![급상승 광고: 전주보다 인기도가 가장 크게 오른 게임 광고입니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
-
-*급상승 광고: 전주보다 인기도가 가장 크게 오른 게임 광고입니다.*
-
-[![신규 광고: 새로 발견된 게임 광고를 초기 인기도순으로 보여 줍니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
-
-*신규 광고: 새로 발견된 게임 광고를 초기 인기도순으로 보여 줍니다.*
 
 ## 첫 주간 순위표 받기
 
@@ -45,6 +29,24 @@ git clone https://github.com/denote-developer/denote-top-ads.git skills/denote-t
 ## 광고 자세히 보기
 
 “급상승 광고 2위를 자세히 보여 줘”라고 요청해 보세요. Top Ads Pro 또는 Business 계정에서는 제공 가능한 광고 성과와 잠재고객 정보도 확인할 수 있습니다. 세 가지 주간 순위표는 무료입니다.
+
+## 제품 화면
+
+[![왼쪽 메뉴에서 세 가지 주간 광고 순위표를 열 수 있습니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/top-ads-navigation.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/top-ads-navigation.jpg)
+
+*왼쪽 메뉴에서 세 가지 주간 광고 순위표를 열 수 있습니다.*
+
+[![인기 광고: 2026년 11월 9일부터 15일까지의 게임 광고를 주간 인기도순으로 보여 줍니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/trending-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/trending-ads.jpg)
+
+*인기 광고: 2026년 11월 9일부터 15일까지의 게임 광고를 주간 인기도순으로 보여 줍니다.*
+
+[![급상승 광고: 전주보다 인기도가 가장 크게 오른 게임 광고입니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/rising-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/rising-ads.jpg)
+
+*급상승 광고: 전주보다 인기도가 가장 크게 오른 게임 광고입니다.*
+
+[![신규 광고: 새로 발견된 게임 광고를 초기 인기도순으로 보여 줍니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/new-ads.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/new-ads.jpg)
+
+*신규 광고: 새로 발견된 게임 광고를 초기 인기도순으로 보여 줍니다.*
 
 [![개요: Vita Mahjong 광고의 형식과 예상 노출 수를 확인할 수 있습니다.](https://raw.githubusercontent.com/denote-developer/denote-top-ads/7836381e21c51723656393ed99380a26215ee954/assets/screenshots/overview.jpg)](https://cdn.denote.net/denote/static/source/denote-top-ads/assets/screenshots/overview.jpg)
 
